@@ -1,0 +1,10 @@
+.metadata
+/.recommenders
+/RemoteSystemsTempFiles
+/Servers
+*/**/.settings 
+*/**/.classpath
+*/**/.project
+*/**/target
+/sample
+README.md
